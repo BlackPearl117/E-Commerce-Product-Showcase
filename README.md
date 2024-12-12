@@ -1,7 +1,7 @@
 # E-Commerce Product Showcase
 
 ## Description
-A responsive, interactive, and user-friendly website showcasing a variety of products in an e-commerce style. The website includes features such as product filtering, sorting, and cart management. Built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, this project demonstrates advanced frontend development skills with a focus on user experience, responsiveness, and performance optimization.
+A responsive, interactive, and user-friendly website showcasing a variety of products in an e-commerce style. The website includes feature such as cart management. Built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, this project demonstrates advanced frontend development skills with a focus on user experience, responsiveness, and performance optimization.
 
 ## Features
 - **Homepage**:
